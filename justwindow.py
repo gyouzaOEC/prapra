@@ -7,7 +7,7 @@ pygame.init()
 SURFACE = pygame.display.set_mode((400, 300))
 pygame.display.set_caption("Just Window")
 
-dada = "happy"
+dada = "happ"
 
 data = "fuck"
 
