@@ -9,6 +9,9 @@ pygame.display.set_caption("Just Window")
 
 dada = "happy"
 
+data = "fuck"
+
+
 def main():
     """ main routine """
     while True:
